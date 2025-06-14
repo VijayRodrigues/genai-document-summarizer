@@ -7,8 +7,7 @@ Upload any PDF and get section-wise summaries with customizable styles like bull
 
 ## 🚀 Live Demo
 
-🌐 [Try it on Streamlit Cloud](https://your-username-your-app-name.streamlit.app)  
-*(Replace with your deployed link)*
+🌐 [Try it on Streamlit Cloud](https://genai-document-summarizer.streamlit.app/)  
 
 ---
 
