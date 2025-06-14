@@ -46,10 +46,3 @@ Upload any PDF and get section-wise summaries with customizable styles like bull
 
 ---
 
-## 🧰 Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/document-summarizer-gpt.git
-cd document-summarizer-gpt
