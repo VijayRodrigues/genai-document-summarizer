@@ -11,6 +11,15 @@ Upload any PDF and get section-wise summaries with customizable styles like bull
 
 ---
 
+
+## 🚀 Demo Preview
+![genai_document_gif](https://github.com/user-attachments/assets/8e5a4c30-5938-4bec-b781-af1cab2d897b)
+
+
+
+
+---
+
 ## 🧠 Features
 
 - ✅ Upload any PDF document
